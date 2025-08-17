@@ -31,8 +31,7 @@ Easily create strong passwords by choosing the length and character types you wa
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/your-username/password-generator.git
-cd password-generator
+https://github.com/04ankit2002/Password-Generator
 ```
 ## 2️⃣ Run the app
   - Open index.html in your browser
