@@ -40,5 +40,7 @@ cd password-generator
 
 ## 📸 Screenshots
 
+![image alt](https://github.com/04ankit2002/Weather-App/blob/6b3b69193fec5448c7356b9dab14f4aa76d34e41/Screenshots/Screenshot%201.png)
+
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
